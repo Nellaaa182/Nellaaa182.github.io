@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Didact+Gothic&family=Patrick+Hand&display=swap');
+/* font-family: 'Balsamiq Sans', cursive;
+font-family: 'Didact Gothic', sans-serif;
+font-family: 'Patrick Hand', cursive; */
+
+html{
+    background-image: url("Bckgrnd.jpeg");
+    background-size: cover;
+}
+.Mew {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+
+.Nav  {
+    float: left;
+  }
+  
+  li a {
+
+    display: block;
+    color: rgb(17, 0, 175);
+    text-align: center;
+    padding: 14px 20px;
+    padding-top: 20px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Didact Gothic', sans-serif;
+  }
+  
+  li a:hover {
+    color: rgb(226, 43, 43) }
+
+    .Banner {
+      display: grid;
+      font-family: 'Balsamiq Sans', cursive;
+      font-size: 30px;
+  }
+  .Video {
+    padding: 50px;
+    padding-right: 11px;
+    margin-left: 10px;
+    margin-right: 50pc;
+    margin-top: 5px;
+}
+

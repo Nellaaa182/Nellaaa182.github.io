@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Didact+Gothic&family=Patrick+Hand&display=swap');
+/* font-family: 'Balsamiq Sans', cursive;
+font-family: 'Didact Gothic', sans-serif;
+font-family: 'Patrick Hand', cursive; */
+
+
+html{
+    background-image: url("Fall-Wallppr.jpeg");
+    background-size: cover;
+}
+.Mew {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+
+.Nav  {
+    float: left;
+  }
+  
+  li a {
+
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 20px;
+    padding-top: 20px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Didact Gothic', sans-serif;
+  }
+  
+  li a:hover {
+    color: blueviolet
+  }
+  
+  h1 {
+    font-family: 'Patrick Hand', cursive;
+    font-size: 40px;
+    text-align: center;
+  }
+
+  .Teks {
+    text-align: justify;
+    font-family: 'Balsamiq Sans', cursive;
+    font-size: 20px;
+    border-radius: 25px;
+    background-color: bisque;
+    border: 2px solid #020300;
+    padding : 100px;
+        padding-top: 80px;
+        margin-left: 10pc;
+        margin-right: 7pc;
+        margin-top: 10px; 
+  }
+
+
+ 
+
